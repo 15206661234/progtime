@@ -1,3 +1,3 @@
 # progtime
-progtime from progtime
-progtime is progtime from progtime in progtime with progtime and progtime
+progtime from
+progtime is progtime in progtime with progtime and progtime
